@@ -1,6 +1,5 @@
 # github-lesson
-Sadece deneme amaçlı oluşturulmuştur.
- ve kullanici bilgilerini göster
+
  
 YEREL DEPO
 
